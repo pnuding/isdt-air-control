@@ -12,7 +12,7 @@ A native macOS (SwiftUI, Liquid Glass) app for ISDT **A8 Air**, **A4 Air** and *
 | --- | --- | --- |
 | A8 Air | 8 | Tested on real hardware |
 | A4 Air | 4 | **Not tested on hardware** |
-| C4 Air | 6 channels, 4 or 2 shown | **Not tested on hardware** |
+| C4 Air | 6 channels, 4 or 2 shown | Tested on real hardware |
 
 The C4 Air has two alternative bay layouts (slots 1–4, or the two large bays 5/6); the app shows whichever layout holds batteries, and keeps the last one when both are empty.
 
